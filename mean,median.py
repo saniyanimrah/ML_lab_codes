@@ -38,4 +38,5 @@ print(f"Median:{median_value:.2f}")
 print(f"Variance:{variance_value:.2f}")
 print(f"Standard deviation:{std_deviation_value:.2f}")
 
+
         
